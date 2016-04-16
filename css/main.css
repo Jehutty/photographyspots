@@ -1,0 +1,18 @@
+body {
+    background: url(http://cdn.wonderfulengineering.com/wp-content/uploads/2016/01/nature-wallpapers-6.jpg);
+}
+
+.jumbotron {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.search-container {
+    width: 70%;
+}
+
+.advert {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
